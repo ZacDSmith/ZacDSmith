@@ -2,6 +2,6 @@
 
 
 <p align="center">
-  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=ZacDSmith">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=ZacDSmith&layout=compact&theme=vision-friendly-dark">
 </p>
 
