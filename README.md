@@ -2,6 +2,6 @@
 
 
 <p align="center">
-  <img width="800" height="220" src="h[![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZacDSmith)](https://github.com/ZacDSmith/github-readme-stats)">
+  <img width="800" height="220" src="(https://github-readme-stats.vercel.app/api?username=ZacDSmith)](https://github.com/ZacDSmith/github-readme-stats)">
 </p>
 
