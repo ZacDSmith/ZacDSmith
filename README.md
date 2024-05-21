@@ -1,4 +1,4 @@
-![github-snake](https://github.com/ZacDSmith/ZacDSmith/assets/48374908/fc05dd29-fa64-40c5-b3f0-c7db5ac646d7)## Hi there 👋
+![github-snake](https://github.com/ZacDSmith/ZacDSmith/assets/48374908/fc05dd29-fa64-40c5-b3f0-c7db5ac646d7)
 
 ![Up<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
     <style>@keyframes c0{4.15%{fill:var(--c1)}4.17%,to{fill:var(--ce)}}@keyframes
