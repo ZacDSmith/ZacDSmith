@@ -11,4 +11,4 @@
 
 
 
-Obsessed with languages and OSes 💻
+AGI? I hardly know her... 💻
