@@ -4,8 +4,6 @@ import SoftwareDeveloper from 'zacdsmith';
 class Bio extends SoftwareDeveloper {
   name     = 'Zac Smith';
   title    = 'Lead Integration Engineer';
-  company  = 'radius financial group inc| Remote';
-  location = 'Phenix City, AL';
 }
 
 class Skills extends SoftwareDeveloper {
