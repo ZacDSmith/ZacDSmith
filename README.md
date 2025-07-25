@@ -24,7 +24,7 @@ class Skills extends SoftwareDeveloper {
 -->
 
 
-  
+<!--
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/zacdsmith/count.svg" />
 </p>
