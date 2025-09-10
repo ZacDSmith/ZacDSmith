@@ -1,3 +1,4 @@
+<!---
 ```js
 import SoftwareDeveloper from 'zacdsmith';
 
@@ -13,7 +14,7 @@ class Skills extends SoftwareDeveloper {
   architectures = ['MVVM', 'MVC', 'REST', 'GraphQL'];
 }
 ```
-
+--->
 <img alt="github-snake" src="github-snake.svg" />
 
 <div align="center">
