@@ -15,7 +15,7 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 --->
-<h3 align="center">I Build API's and solve problems</h3>
+<h3 align="center">I Build things and solve problems</h3>
 
 <p align="left">
 </p>
