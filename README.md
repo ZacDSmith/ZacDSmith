@@ -60,7 +60,8 @@ Custom language project built in Go.
 ### [ip_sniffer](https://github.com/ZacDSmith/ip_sniffer)
 Rust-based defensive networking tool for reading open ports.
 
-### [browser](https://github.com/ZacDSmith/browser) Custom Chromium-based browser project built in C++ with CMake, designed as a maintainable MVP for Windows and macOS.
+### [browser](https://github.com/ZacDSmith/browser) 
+Custom Chromium-based browser project built in C++ with CMake, designed as a maintainable MVP for Windows and macOS.
 
 ### [3dRender](https://github.com/ZacDSmith/3dRender)
 Java project focused on rendering an RGB sphere in 3D.
