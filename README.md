@@ -1,33 +1,108 @@
-<!---
-```js
-import SoftwareDeveloper from 'zacdsmith';
+# Hi, I'm Zachary Smith 👋
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Zac Smith';
-  title    = 'Lead Integration Engineer';
-}
+**Lead Integration Engineer** focused on building secure, reliable software and integrations that solve real business problems.
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Python', 'Java', 'C#', 'C', 'C++', 'Typescript', 'Rust'];
-  databases  = ['MySQL', 'SQL Server', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['ASP.NET', 'Flask', 'React', 'React Native', 'Node', 'Selenium'];
-  architectures = ['MVVM', 'MVC', 'REST', 'GraphQL'];
-}
-```
---->
-<h3 align="center">I Build things and solve problems</h3>
+I work across backend engineering, automation, data, and integrations — with a strong emphasis on **ASP.NET**, **SQL Server**, **third-party integrations**, and **production-ready systems**.
 
-<p align="left">
-</p>
+---
 
-<h3 align="left">Stuff I use sometimes:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## About Me
 
+- Currently building **HIPAA-compliant applications**, including a **Remote Patient Monitoring (RPM) system** at [TimeDuckRPM.com](https://timeduckrpm.com)
+- Professionally focused on **third-party integrations**, backend systems, and secure application design
+- Lead Integration Engineer at **Radius Financial Group**
+- Experienced in designing and maintaining **REST APIs**, **automation workflows**, and **database-backed systems**
+- Strong background in **performance tuning**, **technical documentation**, **testing**, and **mentoring**
+- I enjoy building practical software that is clean, scalable, and useful
 
-<img alt="github-snake" src="github-snake.svg" />
+---
+
+## What I’m Working On
+
+- Building **HIPAA-compliant healthcare software**, including an **RPM platform** connected to real-world operational workflows
+- Developing secure integrations between internal platforms and external services
+- Building and improving **ASP.NET 8 APIs** for performance and reliability
+- Automating workflows with **UiPath**, **PowerShell**, and custom scripting
+- Optimizing **SQL queries**, **indexes**, and backend processes
+- Writing maintainable technical documentation and supporting implementation across teams
+
+---
+
+## Tech Stack
+
+### Languages
+`C#` `TypeScript` `JavaScript` `Python` `Java` `Rust` `C` `C++`
+
+### Backend / Frameworks
+`ASP.NET` `Node.js` `Flask` `React` `React Native` `Selenium`
+
+### Databases
+`SQL Server` `PostgreSQL` `MySQL` `MongoDB`
+
+### Architecture / Tools
+`REST` `GraphQL` `MVC` `MVVM` `UiPath` `PowerShell` `IIS`
+
+---
+
+## Current Focus
+
+I’m currently helping build a **HIPAA-compliant Remote Patient Monitoring (RPM) system** at [TimeDuckRPM.com](https://timeduckrpm.com), along with the integrations and backend workflows needed to support secure, reliable healthcare operations.
+
+A big part of my work centers on connecting systems, improving reliability, and building software that can handle real production demands without sacrificing maintainability.
+
+---
+
+## Featured Public Projects
+
+### [GABAL](https://github.com/ZacDSmith/GABAL)
+Custom language project built in Go.
+
+### [ip_sniffer](https://github.com/ZacDSmith/ip_sniffer)
+Rust-based defensive networking tool for reading open ports.
+
+### [ReginaldV2](https://github.com/ZacDSmith/ReginaldV2)
+A Python music bot project built for personal use.
+
+### [3dRender](https://github.com/ZacDSmith/3dRender)
+Java project focused on rendering an RGB sphere in 3D.
+
+---
+
+## Professional Highlights
+
+- Built and maintained integration solutions aligned with business objectives
+- Developed custom integrations and automation workflows using **UiPath Jobs**
+- Tuned SQL queries and indexes to improve application performance by **up to 71%**
+- Hosted and maintained **RESTful APIs** in production and staging environments using **Microsoft IIS**
+- Installed and renewed **SSL/TLS certificates** and supported uptime monitoring and log analysis
+- Upgraded legacy APIs to newer .NET versions and supported modernization efforts
+- Built secure and scalable solutions across operations, healthcare-adjacent workflows, and third-party platforms
+
+---
+
+## Connect With Me
+
+- GitHub: [github.com/ZacDSmith](https://github.com/ZacDSmith)
+- LinkedIn: [linkedin.com/in/zachary-smith-47206a225](https://www.linkedin.com/in/zachary-smith-47206a225/)
+- Email: [zacdsmithbusiness@gmail.com](mailto:zacdsmithbusiness@gmail.com)
+
+---
+
+## A Few Things I Value
+
+- Clean, maintainable architecture
+- Secure and reliable integrations
+- Practical automation
+- Performance improvements that matter
+- Continuous learning through building
+
 
 <div align="center">
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+  
+<img alt="github-snake" src="github-snake.svg" />
+
+
 <!---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zacdsmith&show_icons=true&locale=en&theme=chartreuse-dark" alt="zacdsmith" width="410" />
   stats tracker
