@@ -1,5 +1,3 @@
-# Hi, I'm Zachary Smith 👋
-
 **Lead Integration Engineer** focused on building secure, reliable software and integrations that solve real business problems.
 
 I work across backend engineering, automation, data, and integrations — with a strong emphasis on **ASP.NET**, **SQL Server**, **third-party integrations**, and **production-ready systems**.
