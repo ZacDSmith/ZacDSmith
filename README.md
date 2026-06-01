@@ -8,7 +8,6 @@ I work across backend engineering, automation, data, and integrations — with a
 
 - Currently building **HIPAA-compliant applications**, including a **Remote Patient Monitoring (RPM) system** at [TimeDuckRPM.com](https://timeduckrpm.com)
 - Professionally focused on **third-party integrations**, backend systems, and secure application design
-- Lead Integration Engineer at **Radius Financial Group**
 - Experienced in designing and maintaining **REST APIs**, **automation workflows**, and **database-backed systems**
 - Strong background in **performance tuning**, **technical documentation**, **testing**, and **mentoring**
 - I enjoy building practical software that is clean, scalable, and useful
