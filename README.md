@@ -1,97 +1,115 @@
-**Lead Integration Engineer** focused on building secure, reliable software and integrations that solve real business problems.
+**Lead Integration Engineer / Senior Software Engineer** focused on building **production-ready software, integrations, and product systems**.
 
-I work across backend engineering, automation, data, and integrations — with a strong emphasis on **ASP.NET**, **SQL Server**, **third-party integrations**, and **production-ready systems**.
+I work across frontend, backend, automation, and integrations — with a focus on **React**, **TypeScript**, **ASP.NET**, **SQL Server**, and **systems that hold up in production**.
 
 ---
 
 ## About Me
 
-- Currently building **HIPAA-compliant applications**, including a **Remote Patient Monitoring (RPM) system** at [TimeDuckRPM.com](https://timeduckrpm.com)
-- Professionally focused on **third-party integrations**, backend systems, and secure application design
-- Experienced in designing and maintaining **REST APIs**, **automation workflows**, and **database-backed systems**
-- Strong background in **performance tuning**, **technical documentation**, **testing**, and **mentoring**
-- I enjoy building practical software that is clean, scalable, and useful
+* Lead Integration Engineer at **Radius Financial Group**, building and maintaining **core business systems and integrations**
+* Also building a **HIPAA-compliant Remote Patient Monitoring (RPM) platform** at [TimeDuckRPM.com](https://timeduckrpm.com)
+* Strong focus on **frontend systems and product development** for complex, real-world workflows
+* Experienced in building **full-stack SaaS platforms**, secure integrations, and production systems
+* I build software that is **usable, scalable, and designed around real operations**
 
 ---
 
 ## What I’m Working On
 
-- Building **HIPAA-compliant healthcare software**, including an **RPM platform** connected to real-world operational workflows
-- Developing secure integrations between internal platforms and external services
-- Building and improving **ASP.NET 8 APIs** for performance and reliability
-- Automating workflows with **UiPath**, **PowerShell**, and custom scripting
-- Optimizing **SQL queries**, **indexes**, and backend processes
-- Writing maintainable technical documentation and supporting implementation across teams
+* Developing and maintaining **integration systems and backend services** at Radius Financial Group
+* Building **frontend systems in React + TypeScript** for complex applications (dashboards, forms, workflow tools)
+* Contributing to **ASP.NET 8 APIs** with a focus on performance and reliability
+* Designing **real-time communication experiences** (SMS, voice, video)
+* Implementing **role-based systems and secure access patterns**
+* Automating workflows with **UiPath**, **PowerShell**, and custom scripting
+* Optimizing **SQL queries**, **indexes**, and backend processes
 
 ---
 
 ## Tech Stack
 
 ### Languages
+
 `C#` `TypeScript` `JavaScript` `Python` `Java` `Rust` `C` `C++`
 
 ### Backend / Frameworks
+
 `ASP.NET` `Node.js` `Flask` `React` `React Native` `Selenium`
 
 ### Databases
+
 `SQL Server` `PostgreSQL` `MySQL` `MongoDB`
 
 ### Architecture / Tools
+
 `REST` `GraphQL` `MVC` `MVVM` `UiPath` `PowerShell` `IIS`
 
 ---
 
 ## Current Focus
 
-I’m currently helping build a **HIPAA-compliant Remote Patient Monitoring (RPM) system** at [TimeDuckRPM.com](https://timeduckrpm.com), along with the integrations and backend workflows needed to support secure, reliable healthcare operations.
+I’m currently working across two environments:
 
-A big part of my work centers on connecting systems, improving reliability, and building software that can handle real production demands without sacrificing maintainability.
+* At **radius financial group**, building and maintaining **integration-heavy systems**, APIs, and automation that support core business operations
+* At **TimeDuckRPM**, focusing on the **frontend and product layer** of a healthcare SaaS platform
+
+My work centers on:
+
+* Building **interfaces around real workflows**, not just components
+* Connecting systems reliably through **integrations and APIs**
+* Handling **complex state, real-time data, and operational logic**
+* Improving performance and reducing friction across systems
 
 ---
 
 ## Featured Public Projects
 
 ### [GABAL](https://github.com/ZacDSmith/GABAL)
+
 Custom language project built in Go.
 
 ### [ip_sniffer](https://github.com/ZacDSmith/ip_sniffer)
+
 Rust-based defensive networking tool for reading open ports.
 
-### [browser](https://github.com/ZacDSmith/browser) 
+### [browser](https://github.com/ZacDSmith/browser)
+
 Custom Chromium-based browser project built in C++ with CMake, designed as a maintainable MVP for Windows and macOS.
 
 ### [3dRender](https://github.com/ZacDSmith/3dRender)
+
 Java project focused on rendering an RGB sphere in 3D.
 
 ---
 
 ## Professional Highlights
 
-- Built and maintained integration solutions aligned with business objectives
-- Developed custom integrations and automation workflows using **UiPath Jobs**
-- Tuned SQL queries and indexes to improve application performance by **up to 71%**
-- Hosted and maintained **RESTful APIs** in production and staging environments using **Microsoft IIS**
-- Installed and renewed **SSL/TLS certificates** and supported uptime monitoring and log analysis
-- Upgraded legacy APIs to newer .NET versions and supported modernization efforts
-- Built secure and scalable solutions across operations, healthcare-adjacent workflows, and third-party platforms
+* Lead development of **integration systems** aligned with business-critical workflows at Radius Financial
+* Built and shipped a **production healthcare SaaS platform** supporting real patient workflows
+* Developed **frontend systems for complex applications** including dashboards, communication tools, and workflow interfaces
+* Improved SQL performance by **up to 71%** through query and index optimization
+* Hosted and maintained **RESTful APIs** in production and staging environments using **Microsoft IIS**
+* Implemented **real-time communication systems** (SMS, voice, video)
+* Automated business processes using **UiPath Jobs and scripting**
+* Upgraded legacy APIs and supported modernization to newer .NET versions
 
 ---
 
 ## Connect With Me
 
-- GitHub: [github.com/ZacDSmith](https://github.com/ZacDSmith)
-- LinkedIn: [linkedin.com/in/zachary-smith-47206a225](https://www.linkedin.com/in/zachary-smith-47206a225/)
-- Email: [zacdsmithbusiness@gmail.com](mailto:zacdsmithbusiness@gmail.com)
+* GitHub: [github.com/ZacDSmith](https://github.com/ZacDSmith)
+* LinkedIn: [linkedin.com/in/zachary-smith-47206a225](https://www.linkedin.com/in/zachary-smith-47206a225/)
+* Email: [zacdsmithbusiness@gmail.com](mailto:zacdsmithbusiness@gmail.com)
 
 ---
 
 ## A Few Things I Value
 
-- Clean, maintainable architecture
-- Secure and reliable integrations
-- Practical automation
-- Performance improvements that matter
-- Continuous learning through building
+* Building **interfaces that match real workflows**
+* Clean, maintainable architecture
+* Secure and reliable systems
+* Practical automation
+* Performance improvements that matter
 
 
 <div align="center">
