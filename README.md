@@ -18,7 +18,7 @@ I work across frontend, backend, automation, and integrations — with a focus o
 
 * Developing and maintaining **integration systems and backend services** at Radius Financial Group
 * Building **frontend systems in React + TypeScript** for complex applications (dashboards, forms, workflow tools)
-* Contributing to **ASP.NET 8 APIs** with a focus on performance and reliability
+* Contributing to **ASP.NET 8+ APIs** with a focus on performance and reliability
 * Designing **real-time communication experiences** (SMS, voice, video)
 * Implementing **role-based systems and secure access patterns**
 * Automating workflows with **UiPath**, **PowerShell**, and custom scripting
