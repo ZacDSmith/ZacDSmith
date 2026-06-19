@@ -6,7 +6,7 @@ I work across frontend, backend, automation, and integrations — with a focus o
 
 ## About Me
 
-* Lead Integration Consultant at *radius financial group**, building and maintaining **core business systems and integrations**
+* Lead Integration Consultant at *radius financial group*, building and maintaining **core business systems and integrations**
 * Also building a **HIPAA-compliant Remote Patient Monitoring (RPM) platform** at [TimeDuckRPM.com](https://timeduckrpm.com)
 * Strong focus on **frontend systems and product development** for complex, real-world workflows
 * Experienced in building **full-stack SaaS platforms**, secure integrations, and production systems
