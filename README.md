@@ -1,4 +1,4 @@
-**Lead Integration Engineer / Senior Software Engineer** focused on building **production-ready software, integrations, and product systems**.
+**Senior Software Engineer** focused on building **production-ready software, integrations, and product systems**.
 
 I work across frontend, backend, automation, and integrations — with a focus on **React**, **TypeScript**, **ASP.NET**, **SQL Server**, and **systems that hold up in production**.
 
