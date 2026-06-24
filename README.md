@@ -50,7 +50,7 @@ I work across frontend, backend, automation, and integrations — with a focus o
 
 I’m currently working across two environments:
 
-* At **radius financial group**, building and maintaining **integration-heavy systems**, APIs, and automation that support core business operations
+* At **radius financial group inc**, building and maintaining **integration-heavy systems**, APIs, and automation that support core business operations
 * At **TimeDuckRPM**, focusing on the **frontend and product layer** of a healthcare SaaS platform
 
 My work centers on:
