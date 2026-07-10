@@ -64,7 +64,7 @@ My work centers on:
 
 ## Featured Public Projects
 
-### [GABAL](https://github.com/ZacDSmith/GABAL)
+### [ClockIn](https://github.com/ZacDSmith/ClockIn)
 
 Custom language project built in Go.
 
