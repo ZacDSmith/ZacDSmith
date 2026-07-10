@@ -66,7 +66,7 @@ My work centers on:
 
 ### [ClockIn](https://github.com/ZacDSmith/ClockIn)
 
-Custom language project built in Go.
+TUI time clock for tracking hours. I use this personally.
 
 ### [ip_sniffer](https://github.com/ZacDSmith/ip_sniffer)
 
