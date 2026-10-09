@@ -97,7 +97,6 @@ Java project focused on rendering an RGB sphere in 3D.
 
 ## Connect With Me
 
-* GitHub: [github.com/ZacDSmith](https://github.com/ZacDSmith)
 * LinkedIn: [linkedin.com/in/zachary-smith-47206a225](https://www.linkedin.com/in/zachary-smith-47206a225/)
 * Email: [zacdsmithbusiness@gmail.com](mailto:zacdsmithbusiness@gmail.com)
 
